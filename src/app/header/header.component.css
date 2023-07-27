@@ -1,0 +1,22 @@
+.navbar-add{
+    height: 50px;
+}
+.library-icon{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    left: 20px;
+    margin: -5px;
+    position: relative;
+}
+.nav-list{
+    margin: 5px 30px;
+    display: flex;
+    justify-content: space-between;
+    width: 280px;
+}
+.nav-list a{
+    font-size: 17px;
+    text-decoration: none;
+    color: aliceblue;
+}
